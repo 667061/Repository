@@ -7,7 +7,7 @@ public class B4 {
 	public static void main(String[] args) {
 		int bruttoInn = parseInt(showInputDialog("Bruttolønn: "));
 		double skatt = 0;
-		final double TRINN_0 = 0.00;
+		final double TRINN_0 = 0.000;
 		final double TRINN_1 = 0.0093;
 		final double TRINN_2 = 0.0241;
 		final double TRINN_3 = 0.1152;
